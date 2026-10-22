@@ -122,5 +122,5 @@ The footer shows icons for the payment methods you have enabled in
 ## Support
 
 - Documentation: this page (https://chungsubeen0.github.io/lumen-docs/).
-- Contact form: TBD — a public contact form must be live before launch.
+- Contact form: https://tally.so/r/J19oDr
 - Issues and feature requests: the theme's GitHub repository issues page.
